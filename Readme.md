@@ -65,14 +65,11 @@ Demo:
 Alți licitatori pot vedea ofertele fără să se înregistreze, dar nu pot plasa oferte fără autentificare.
 
 ![image](https://user-images.githubusercontent.com/77499979/227801000-317bfa90-3e15-4d4a-b580-ee95fb3f917b.png)
-7. Vânzătorul aprobă oricare dintre oferte
-
-![image](https://user-images.githubusercontent.com/77499979/227801041-73d46ce8-b12d-4f26-9c33-4ab403c6e709.png)
-8. Licitatorii sunt informați dacă oferta lor a fost aprobată sau nu
+7. Licitatorii sunt informați dacă oferta lor a fost aprobată sau nu
 
 ![image](https://user-images.githubusercontent.com/77499979/227801126-e2245e0e-27ca-4c23-8d23-37969cbe82bd.png)
 
-9. Vânzătorii vor fi informați despre plata primită
+8. Vânzătorii vor fi informați despre plata primită
 ![image](https://user-images.githubusercontent.com/77499979/227801586-1d489015-bb9d-4b78-bcf7-4e5256c31331.png)
 
 Panou de Admin
