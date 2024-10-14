@@ -49,17 +49,13 @@ Demo:
 
 3. Adaugă un articol nou
 
-
-![add new auction](https://user-images.githubusercontent.com/77499979/227800173-f6b57be8-96e8-487c-bb38-1c4a57ce473c.jpeg)
-
 4. Pagina principală pentru listarea aplicațiilor
 ![Homepage](https://user-images.githubusercontent.com/77499979/227800345-647484b8-dd43-4969-80b4-9d248555550c.jpeg)
 
 5. Licitatorii pot vedea și plasa oferte. Cumpărătorii/licitatorii pot vedea ofertele altora.
-5.1 Detaliile licitației văzute de licitator
-![Bid details](https://user-images.githubusercontent.com/77499979/227800402-44a95f85-ef71-409f-a2f3-380ac6fbce4b.jpeg)
 
-5.2 Licitatorul plasează o ofertă
+
+5.1 Licitatorul plasează o ofertă
 
 
 ![Bid details update](https://user-images.githubusercontent.com/77499979/227800440-6e77abc1-e622-4f56-a737-0ff47aafbe50.jpeg)
@@ -75,12 +71,10 @@ Alți licitatori pot vedea ofertele fără să se înregistreze, dar nu pot plas
 8. Licitatorii sunt informați dacă oferta lor a fost aprobată sau nu
 
 ![image](https://user-images.githubusercontent.com/77499979/227801126-e2245e0e-27ca-4c23-8d23-37969cbe82bd.png)
-9. După aprobare, licitatorul va plăti suma ofertei plasate
 
-![image](https://user-images.githubusercontent.com/77499979/227801188-d52f388e-ec0b-4366-87fc-a8c21bb81746.png)
-10. Vânzătorii vor fi informați despre plata primită
-
+9. Vânzătorii vor fi informați despre plata primită
 ![image](https://user-images.githubusercontent.com/77499979/227801586-1d489015-bb9d-4b78-bcf7-4e5256c31331.png)
+
 Panou de Admin
 ![image](https://user-images.githubusercontent.com/77499979/227801263-b6a6e591-facb-4630-9f48-bfb8346a40ea.png)
 
